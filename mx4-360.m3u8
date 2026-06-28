@@ -1,4 +1,2 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360
-http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=146121&extension=m3u8
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:fd:56:0d&stream=1753678&extension=m3u8
