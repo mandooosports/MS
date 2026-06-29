@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360
+http://vpn.line-activation.xyz/play/live.php?mac=00:1A:79:BC:26:1D&stream=2085205&extension=m3u8
