@@ -1,12 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=350000,RESOLUTION=426x240
-http://vpn.line-activation.xyz:80/play/live.php?mac=00:1A:79:B5:AF:4B&stream=1330474&extension=m3u8
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:fd:56:0d&stream=798829&extension=m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360
-http://vpn.line-activation.xyz:80/play/live.php?mac=00:1A:79:B5:AF:4B&stream=1330457&extension=m3u8
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:fd:56:0d&stream=985162&extension=m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=854x480
-http://vpn.line-activation.xyz:80/play/live.php?mac=00:1A:79:B5:AF:4B&stream=1660413&extension=m3u8
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:fd:56:0d&stream=985128&extension=m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
-http://vpn.line-activation.xyz:80/play/live.php?mac=00:1A:79:B5:AF:4B&stream=1411396&extension=m3u8
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:fd:56:0d&stream=985046&extension=m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
-http://vpn.line-activation.xyz:80/play/live.php?mac=00:1A:79:B5:AF:4B&stream=1660415&extension=m3u8
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:fd:56:0d&stream=798773&extension=m3u8
