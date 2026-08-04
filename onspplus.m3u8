@@ -1,8 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=854x480
-http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/287410.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
-https://stm.linkip.org/live/1148_.m3u8
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:fd:56:0d&stream=660259&extension=m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
-https://stm.linkip.org/live/1147_.m3u8
+http://vpn.line-activation.xyz:80/play/live.php?mac=00:1A:79:F7:8E:E5&stream=2063014&extension=m3u8
