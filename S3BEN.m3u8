@@ -1,10 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360
-http://iptv.1stv.xyz/live/1stMovies/aak4bRFKJefhg/1072.m3u8
+http://iptv.1stv.xyz/live/1stMovies/PmR02DOOIrog8/1072.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=854x480
-http://iptv.1stv.xyz/live/1stMovies/aak4bRFKJefhg/5192.m3u8
+http://iptv.1stv.xyz/live/1stMovies/PmR02DOOIrog8/5192.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
-http://iptv.1stv.xyz/live/1stMovies/aak4bRFKJefhg/5195.m3u8
+http://iptv.1stv.xyz/live/1stMovies/PmR02DOOIrog8/5195.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
-http://iptv.1stv.xyz/live/1stMovies/aak4bRFKJefhg/716.m3u8
+http://iptv.1stv.xyz/live/1stMovies/PmR02DOOIrog8/716.m3u8
